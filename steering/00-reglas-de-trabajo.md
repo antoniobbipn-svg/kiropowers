@@ -7,6 +7,11 @@ inclusion: always
 ## 1. Control de Git (Estricto)
 - **JAMÁS subir a Git (`git push` / `git commit`)** a menos que el usuario lo indique explícitamente o dé su permiso directo en la conversación.
 - Las operaciones que alteren repositorios Git remotos o creen commits requieren confirmación previa del usuario.
+- **La autorización de un `push`/`commit` es de un solo uso y NO se hereda entre turnos ni entre tareas.** Cada nuevo `push`/`commit` requiere una confirmación explícita del usuario **en el mismo turno**, aunque:
+  - sea la repetición de una operación ya autorizada antes (p. ej. reintentar un push tras un fix),
+  - parezca el cierre obvio de una tarea en curso, o
+  - el usuario haya dicho "adelante" a un paso distinto (reestructurar, corregir, etc.) que no mencione explícitamente el push.
+- Ante la duda de si una instrucción cubre el `push`, **detenerse, mostrar que el commit está listo y preguntar** antes de subir. Nunca asumir aprobación implícita (ver Regla 2).
 
 ## 2. Aprobación de Planes de Implementación (Estricto)
 - **JAMÁS proceder con la ejecución de un plan de implementación** de forma automática o asumiendo aprobación implícita.
