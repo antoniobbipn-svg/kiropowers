@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fuentes — Claro Atlas</title>
+  <link rel="stylesheet" href="roboto/font-roboto.css" />
+  <link rel="stylesheet" href="amx/font-amx.css" />
+  <style>
+    :root {
+      --texto: #3c3c3c;
+      --muted: #6b6b6b;
+      --rojo: #da291c;
+      --linea: #e8e8e8;
+      --bg: #fff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Roboto", sans-serif;
+      font-weight: 400;
+      color: var(--texto);
+      background: var(--bg);
+      padding: 40px 48px 80px;
+      line-height: 1.45;
+    }
+
+    h1, h2, h3 {
+      font-family: "AMX", "Roboto", sans-serif;
+      line-height: 1.2;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .intro {
+      max-width: 720px;
+      color: var(--muted);
+      font-size: 15px;
+      margin: 0 0 48px;
+    }
+
+    .family {
+      margin-bottom: 64px;
+      padding-bottom: 48px;
+      border-bottom: 1px solid var(--linea);
+    }
+
+    .family:last-of-type {
+      border-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .family-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px 24px;
+      margin-bottom: 12px;
+    }
+
+    .family-header h2 {
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .badge {
+      display: inline-block;
+      font-family: "Roboto", sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--rojo);
+      background: #fdeceb;
+      padding: 4px 10px;
+      border-radius: 4px;
+    }
+
+    .usage {
+      font-size: 14px;
+      color: var(--muted);
+      margin: 0 0 28px;
+    }
+
+    .usage strong {
+      color: var(--texto);
+      font-weight: 500;
+    }
+
+    .meta {
+      font-size: 13px;
+      color: var(--muted);
+      margin: 0 0 24px;
+    }
+
+    .meta code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12px;
+      background: #f5f5f5;
+      padding: 2px 6px;
+      border-radius: 3px;
+    }
+
+    .variants {
+      display: grid;
+      gap: 28px;
+    }
+
+    .variant {
+      padding: 24px;
+      border: 1px solid var(--linea);
+      border-radius: 8px;
+    }
+
+    .variant-label {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--linea);
+    }
+
+    .variant-label h3 {
+      font-family: "Roboto", sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .variant-label span {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .sample-title {
+      margin: 0 0 10px;
+      font-size: 36px;
+    }
+
+    .sample-text {
+      margin: 0;
+      font-size: 18px;
+      max-width: 48rem;
+    }
+
+    .sample-abc {
+      margin: 18px 0 0;
+      font-size: 22px;
+      letter-spacing: 0.02em;
+      color: var(--texto);
+      word-break: break-word;
+    }
+
+    .amx-regular { font-family: "AMX", "Roboto", sans-serif; font-weight: 400; }
+    .amx-medium  { font-family: "AMX", "Roboto", sans-serif; font-weight: 500; }
+    .amx-bold    { font-family: "AMX", "Roboto", sans-serif; font-weight: 700; }
+
+    .roboto-regular { font-family: "Roboto", sans-serif; font-weight: 400; }
+    .roboto-medium  { font-family: "Roboto", sans-serif; font-weight: 500; }
+    .roboto-bold    { font-family: "Roboto", sans-serif; font-weight: 700; }
+
+    .rules {
+      margin-top: 8px;
+      padding: 24px;
+      background: #fafafa;
+      border-radius: 8px;
+    }
+
+    .rules h2 {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .rules ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    .rules li {
+      margin-bottom: 8px;
+      font-size: 15px;
+    }
+
+    .rules li:last-child {
+      margin-bottom: 0;
+    }
+
+    @media (max-width: 800px) {
+      body { padding: 24px 16px 48px; }
+      .sample-title { font-size: 28px; }
+      .sample-text { font-size: 16px; }
+      .sample-abc { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <h1>Fuentes</h1>
+  <p class="intro">
+    Tipografías utilizadas en Claro Atlas. AMX es la fuente de marca para títulos y texto;
+    Roboto se usa únicamente para textos.
+  </p>
+
+  <section class="family" id="amx">
+    <div class="family-header">
+      <h2>AMX</h2>
+      <span class="badge">Títulos y texto</span>
+    </div>
+    <p class="usage">
+      Uso: <strong>títulos y texto</strong>. Variantes: Regular, Medium y Bold.
+    </p>
+    <p class="meta">
+      Ubicación: <code>fonts/amx/</code> · CSS: <code>fonts/amx/font-amx.css</code>
+    </p>
+
+    <div class="variants">
+      <article class="variant">
+        <div class="variant-label">
+          <h3>Regular</h3>
+          <span>font-weight: 400 · AMX-Regular</span>
+        </div>
+        <p class="sample-title amx-regular">Claro conecta lo que importa</p>
+        <p class="sample-text amx-regular">
+          La tipografía AMX Regular se utiliza en títulos y cuerpos de texto cuando se requiere
+          el tono de marca con un peso estándar.
+        </p>
+        <p class="sample-abc amx-regular">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ<br />
+          abcdefghijklmnopqrstuvwxyz<br />
+          0123456789
+        </p>
+      </article>
+
+      <article class="variant">
+        <div class="variant-label">
+          <h3>Medium</h3>
+          <span>font-weight: 500 · AMX-Medium</span>
+        </div>
+        <p class="sample-title amx-medium">Claro conecta lo que importa</p>
+        <p class="sample-text amx-medium">
+          La tipografía AMX Medium aporta énfasis intermedio en títulos, subtítulos y textos
+          destacados sin llegar al peso Bold.
+        </p>
+        <p class="sample-abc amx-medium">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ<br />
+          abcdefghijklmnopqrstuvwxyz<br />
+          0123456789
+        </p>
+      </article>
+
+      <article class="variant">
+        <div class="variant-label">
+          <h3>Bold</h3>
+          <span>font-weight: 700 · AMX-Bold</span>
+        </div>
+        <p class="sample-title amx-bold">Claro conecta lo que importa</p>
+        <p class="sample-text amx-bold">
+          La tipografía AMX Bold se usa en encabezados y mensajes de mayor jerarquía visual.
+        </p>
+        <p class="sample-abc amx-bold">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ<br />
+          abcdefghijklmnopqrstuvwxyz<br />
+          0123456789
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="family" id="roboto">
+    <div class="family-header">
+      <h2 class="amx-bold">Roboto</h2>
+      <span class="badge">Solo texto</span>
+    </div>
+    <p class="usage">
+      Uso: <strong>solo textos</strong> (no títulos). Variantes: Regular, Medium y Bold.
+    </p>
+    <p class="meta">
+      Fuente web (Google Fonts). No se aloja en <code>fonts/</code>.
+    </p>
+
+    <div class="variants">
+      <article class="variant">
+        <div class="variant-label">
+          <h3>Regular</h3>
+          <span>font-weight: 400</span>
+        </div>
+        <p class="sample-text roboto-regular" style="font-size: 20px;">
+          Roboto Regular es la base para párrafos, descripciones y contenido de lectura.
+        </p>
+        <p class="sample-abc roboto-regular">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ<br />
+          abcdefghijklmnopqrstuvwxyz<br />
+          0123456789
+        </p>
+      </article>
+
+      <article class="variant">
+        <div class="variant-label">
+          <h3>Medium</h3>
+          <span>font-weight: 500</span>
+        </div>
+        <p class="sample-text roboto-medium" style="font-size: 20px;">
+          Roboto Medium se usa para resaltar etiquetas, enlaces y textos de interfaz.
+        </p>
+        <p class="sample-abc roboto-medium">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ<br />
+          abcdefghijklmnopqrstuvwxyz<br />
+          0123456789
+        </p>
+      </article>
+
+      <article class="variant">
+        <div class="variant-label">
+          <h3>Bold</h3>
+          <span>font-weight: 700</span>
+        </div>
+        <p class="sample-text roboto-bold" style="font-size: 20px;">
+          Roboto Bold aporta énfasis en textos, sin usarse como tipografía de títulos.
+        </p>
+        <p class="sample-abc roboto-bold">
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ<br />
+          abcdefghijklmnopqrstuvwxyz<br />
+          0123456789
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="rules">
+    <h2>Reglas de uso</h2>
+    <ul>
+      <li><strong>AMX</strong> (Regular, Medium, Bold): títulos y texto. Archivos en <code>fonts/amx/</code>.</li>
+      <li><strong>Roboto</strong> (Regular, Medium, Bold): solo textos. No usar en títulos.</li>
+    </ul>
+  </section>
+</body>
+</html>

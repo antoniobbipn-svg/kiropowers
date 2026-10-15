@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="86px" viewBox="0 0 76 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico-menu-telefonico</title>
+    <g id="Empresas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-392.000000, -510.000000)">
+            <g id="ico-menu-telefonico" transform="translate(392.000000, 510.000000)">
+                <polygon id="Clip-5" points="0 86.0001 76 86.0001 76 10.0001 0 10.0001"></polygon>
+                <path d="M54.5255253,86 L21.4745728,86 C17.898144,86 15,83.0134027 15,79.327808 L15,73.481584 L15,61.7893387 L15,16.6722427 C15,12.9866176 17.898144,10 21.4745728,10 L54.5255253,10 C58.101856,10 61,12.9866176 61,16.6722427 L61,79.327808 C61,83.0134027 58.101856,86 54.5255253,86 Z M17.8365085,76.4046453 L17.8365085,79.327808 C17.8365085,81.4248 19.5013538,83.0769387 21.4745728,83.0769387 L54.5255253,83.0769387 C56.5603799,83.0769387 58.1635897,81.4248 58.1635897,79.327808 L58.1635897,16.6722427 C58.1635897,14.5752507 56.5603799,12.9230816 54.5255253,12.9230816 L21.4745728,12.9230816 C19.4397183,12.9230816 17.8365085,14.6387968 17.8365085,16.6722427 L17.8365085,58.866176 L17.8365085,76.4046453 Z" id="Shape" fill="#424242" fill-rule="nonzero"></path>
+                <line x1="35" y1="80" x2="41" y2="80" id="Stroke-7" stroke="#424242" stroke-width="1.66"></line>
+                <path d="M39,17.0004286 C39,17.5525075 38.5525075,18 37.9995714,18 C37.4474925,18 37,17.5525075 37,17.0004286 C37,16.4474925 37.4474925,16 37.9995714,16 C38.5525075,16 39,16.4474925 39,17.0004286" id="Fill-8" fill="#424242"></path>
+                <polygon id="Fill-4" fill="#FFC721" points="21 76 55 75.9605804 55 20 21 20"></polygon>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="27" cy="33" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="49" cy="33" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="38" cy="33" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="27" cy="43" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="38" cy="43" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="49" cy="43" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="27" cy="53" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="38" cy="53" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="38" cy="63" r="3"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="49" cy="53" r="3"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="27" cy="33" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="38" cy="33" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="49" cy="33" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="27" cy="43" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="38" cy="43" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="49" cy="43" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="27" cy="53" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="38" cy="53" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="38" cy="63" r="1"></circle>
+                <circle id="Oval" fill="#3C3C3C" fill-rule="nonzero" cx="49" cy="53" r="1"></circle>
+                <g id="Group-Copy-5" transform="translate(60.000000, 0.000000)" fill="#FFC721" fill-rule="nonzero">
+                    <polygon id="Path" points="10.6948182 9.72042857 9.44027273 7.42328571 5.10240909 10.0231429 6.35695455 12.3202857"></polygon>
+                    <polygon id="Path" points="5.19268182 2.2571 3.19481818 0.637557143 0.136454545 4.77827143 2.13445455 6.39785714"></polygon>
+                    <polygon id="Path" points="12.7888182 16.1868571 7.83172727 16.8512857 8.15231818 19.4764286 13.1095455 18.812"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

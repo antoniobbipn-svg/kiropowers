@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico-redes-sociales</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-632.000000, -520.000000)">
+            <g id="ico-redes-sociales" transform="translate(632.000000, 520.000000)">
+                <polygon id="Clip-5" points="0 76 76 76 76 0 0 0"></polygon>
+                <path d="M69.5255253,76 L36.4745728,76 C32.898144,76 30,73.0134027 30,69.327808 L30,63.481584 L30,51.7893387 L30,6.67224267 C30,2.9866176 32.898144,0 36.4745728,0 L69.5255253,0 C73.101856,0 76,2.9866176 76,6.67224267 L76,69.327808 C76,73.0134027 73.101856,76 69.5255253,76 Z M32.8365085,66.4046453 L32.8365085,69.327808 C32.8365085,71.4248 34.5013538,73.0769387 36.4745728,73.0769387 L69.5255253,73.0769387 C71.5603799,73.0769387 73.1635897,71.4248 73.1635897,69.327808 L73.1635897,6.67224267 C73.1635897,4.57525067 71.5603799,2.9230816 69.5255253,2.9230816 L36.4745728,2.9230816 C34.4397183,2.9230816 32.8365085,4.6387968 32.8365085,6.67224267 L32.8365085,48.866176 L32.8365085,66.4046453 Z" id="Shape" fill="#424242" fill-rule="nonzero"></path>
+                <line x1="50" y1="70" x2="56" y2="70" id="Stroke-7" stroke="#424242" stroke-width="1.66"></line>
+                <path d="M54,7.00042863 C54,7.5525075 53.5525075,8 52.9995714,8 C52.4474925,8 52,7.5525075 52,7.00042863 C52,6.4474925 52.4474925,6 52.9995714,6 C53.5525075,6 54,6.4474925 54,7.00042863" id="Fill-8" fill="#424242"></path>
+                <polygon id="Fill-4" fill="#FF8300" points="36 66 70 65.9605804 70 10 36 10"></polygon>
+                <path d="M53,27.7739767 C47.36172,27.7739767 42.7740738,32.3614622 42.7740738,37.9995448 C42.7740738,43.6385378 47.36172,48.2260233 53,48.2260233 C58.63828,48.2260233 63.2259262,43.6385378 63.2259262,37.9995448 C63.2259262,32.3614622 58.63828,27.7739767 53,27.7739767 M53,51 C45.8312907,51 40,45.1680031 40,37.9995448 C40,30.8319969 45.8312907,25 53,25 C60.1687093,25 66,30.8319969 66,37.9995448 C66,45.1680031 60.1687093,51 53,51" id="Fill-13" fill="#FFFFFF"></path>
+                <line x1="53" y1="44" x2="53" y2="36" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="30 8 24 8 24 12 30 12"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="13 36 5 36 5 40 13 40"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="2 36 0 36 0 40 2 40"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="7 64 4 64 4 68 7 68"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="18 64 10 64 10 68 18 68"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="7 22 4 22 4 26 7 26"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="26 50 16 50 16 54 26 54"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="30 22 10 22 10 26 30 26"></polygon>
+                <polygon id="Path" fill="#424242" fill-rule="nonzero" points="30 36 16 36 16 40 30 40"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

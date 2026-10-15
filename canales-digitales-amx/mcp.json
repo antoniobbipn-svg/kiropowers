@@ -1,0 +1,43 @@
+{
+  "mcpServers": {
+    "mysql-dev": {
+      "command": "py",
+      "args": ["-m", "mysql_mcp_server"],
+      "env": {
+        "MYSQL_HOST": "${MYSQL_DEV_HOST}",
+        "MYSQL_PORT": "${MYSQL_DEV_PORT}",
+        "MYSQL_USER": "${MYSQL_DEV_USER}",
+        "MYSQL_PASSWORD": "${MYSQL_DEV_PASSWORD}",
+        "MYSQL_DATABASE": "${MYSQL_DEV_DATABASE}"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "mysql-local": {
+      "command": "py",
+      "args": ["-m", "mysql_mcp_server"],
+      "env": {
+        "MYSQL_HOST": "${MYSQL_LOCAL_HOST}",
+        "MYSQL_PORT": "${MYSQL_LOCAL_PORT}",
+        "MYSQL_USER": "${MYSQL_LOCAL_USER}",
+        "MYSQL_PASSWORD": "${MYSQL_LOCAL_PASSWORD}",
+        "MYSQL_DATABASE": "${MYSQL_LOCAL_DATABASE}"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "mysql-prod": {
+      "command": "py",
+      "args": ["-m", "mysql_mcp_server"],
+      "env": {
+        "MYSQL_HOST": "${MYSQL_PROD_HOST}",
+        "MYSQL_PORT": "${MYSQL_PROD_PORT}",
+        "MYSQL_USER": "${MYSQL_PROD_USER}",
+        "MYSQL_PASSWORD": "${MYSQL_PROD_PASSWORD}",
+        "MYSQL_DATABASE": "${MYSQL_PROD_DATABASE}"
+      },
+      "disabled": true,
+      "autoApprove": []
+    }
+  }
+}

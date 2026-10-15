@@ -1,0 +1,9 @@
+# Nunca versionar credenciales ni configuración MCP con secretos reales.
+# El mcp.json de este Power solo lleva placeholders; la config real vive en
+# el workspace destino (.kiro/settings/mcp.json), que debe estar en SU propio .gitignore.
+.env
+.env.*
+*.pem
+*.key
+# Config MCP del workspace (si alguien la copia aquí por error):
+.kiro/settings/mcp.json

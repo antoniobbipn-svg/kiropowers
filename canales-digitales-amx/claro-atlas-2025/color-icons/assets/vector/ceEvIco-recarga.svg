@@ -1,0 +1,22 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M47.5104 8H28.2604C26.7968 8 25.6104 9.18644 25.6104 10.65V48.52C25.6104 49.9836 26.7968 51.17 28.2604 51.17H47.5104C48.9739 51.17 50.1604 49.9836 50.1604 48.52V10.65C50.1604 9.18644 48.9739 8 47.5104 8Z" fill="white" stroke="#3C3C3C"/>
+<path d="M27.7305 12.6499V46.5099H48.0405V12.6499H27.7305Z" fill="url(#paint0_linear_247_9365)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43 32.3299C43.0066 30.4457 42.1482 29.1384 38.9029 28.2658C37.1379 27.7764 36.7184 27.5116 36.7184 26.855C36.7184 26.3755 37.0132 25.866 37.9152 25.866C39.1053 25.866 39.3077 26.5835 39.4135 27.0602H42.6984C42.5657 25.3324 41.4982 23.9965 39.1857 23.6421V22.5H36.7043V23.6514C34.623 24.0212 33.2566 25.3719 33.2566 27.2936C33.2566 29.0816 34.1063 30.3701 37.5285 31.2928C39.0678 31.7081 39.4772 32.0491 39.4772 32.7719C39.4772 33.3229 39.1529 33.8284 38.0981 33.8284C37.1392 33.8284 36.5308 33.3256 36.3438 32.5051H33C33.1293 34.3165 34.3657 35.7294 36.8022 36.0811V37.5H39.2949V36.0784C41.5304 35.7575 42.9879 34.5312 43 32.3299Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.9796 10.5401C38.9796 10.9101 38.6797 11.2101 38.3097 11.2101C37.9397 11.2101 37.6396 10.9101 37.6396 10.5401C37.6396 10.1701 37.9397 9.87012 38.3097 9.87012C38.6797 9.87012 38.9796 10.1701 38.9796 10.5401Z" fill="#3C3C3C"/>
+<path d="M35.3398 48.6299H40.4198" stroke="#3C3C3C" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M25.4698 10.6001H22.5898" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M14.5599 20.0903H11.6699" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M12.89 29.52H10" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M25.3597 38.9102H22.4697" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M20.5404 48.54H17.6504" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M25.0804 48.54H22.1904" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M25.4704 20.0698H16.4404" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M25.4696 29.5801H20.5996" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<path d="M19.1798 29.5801H14.2998" stroke="#3C3C3C" stroke-miterlimit="10"/>
+<defs>
+<linearGradient id="paint0_linear_247_9365" x1="37.8809" y1="12.6499" x2="37.8809" y2="46.4852" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC722"/>
+<stop offset="1" stop-color="#FFAD17"/>
+</linearGradient>
+</defs>
+</svg>

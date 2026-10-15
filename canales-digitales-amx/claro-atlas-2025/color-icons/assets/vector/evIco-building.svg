@@ -1,0 +1,32 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15 52H45V57H15V52Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.5 7.21244V1H30.5V7.21244L57.4951 22.9187C58.0071 23.2166 57.7958 24 57.2034 24H2.79656C2.20418 24 1.99287 23.2166 2.50488 22.9187L29.5 7.21244ZM30 8.07847L4.3536 23H55.6464L30 8.07847Z" fill="#3C3C3C"/>
+<path d="M2 27.5V23.5H58V27.5H2Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.5 23H58.5V28H1.5V23ZM2.5 24V27H57.5V24H2.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 47.5V30.5H6.5V47.5H5.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.5 47.5V30.5H35.5V47.5H34.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48.5 47.5V30.5H49.5V47.5H48.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 47.5V30.5H11.5V47.5H10.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39.5 47.5V30.5H40.5V47.5H39.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M53.5 47.5V30.5H54.5V47.5H53.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.5 47.5V30.5H20.5V47.5H19.5Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.5 47.5V30.5H25.5V47.5H24.5Z" fill="#3C3C3C"/>
+<path d="M1 50H16V59H1V50Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 51H2V58H15V51ZM1 50V59H16V50H1Z" fill="#3C3C3C"/>
+<path d="M44 50H59V59H44V50Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M58 51H45V58H58V51ZM44 50V59H59V50H44Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45 53H15V52H45V53Z" fill="#3C3C3C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45 57H15V56H45V57Z" fill="#3C3C3C"/>
+<path d="M30 9L54 23H6L30 9Z" fill="url(#paint0_linear_15072_4942)"/>
+<path d="M31 1H39L37 3.5L39 6H31V1Z" fill="url(#paint1_linear_15072_4942)"/>
+<defs>
+<linearGradient id="paint0_linear_15072_4942" x1="30" y1="9" x2="30" y2="23" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FC867F"/>
+<stop offset="1" stop-color="#F65041"/>
+</linearGradient>
+<linearGradient id="paint1_linear_15072_4942" x1="35" y1="1" x2="35" y2="6" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FC867F"/>
+<stop offset="1" stop-color="#F65041"/>
+</linearGradient>
+</defs>
+</svg>

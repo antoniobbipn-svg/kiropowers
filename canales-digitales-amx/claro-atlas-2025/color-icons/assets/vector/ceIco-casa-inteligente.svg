@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="76px" viewBox="0 0 78 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 24</title>
+    <g id="Empresas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1308.000000, -2538.000000)">
+            <g id="Group-24" transform="translate(1310.000000, 2538.000000)">
+                <polygon id="Clip-5" points="0 76 76 76 76 0 0 0"></polygon>
+                <path d="M5.82939277,32.2735129 L5.82939277,68.2735129 C5.82939277,70.4826519 7.62025377,72.2735129 9.82939277,72.2735129 L63.8293928,72.2735129 C66.0385318,72.2735129 67.8293928,70.4826519 67.8293928,68.2735129 L67.8293928,32.2735129 L67.8293928,32.2735129" id="Path-7" stroke="#424242" stroke-width="3" stroke-linecap="round"></path>
+                <polyline id="Path-8" stroke="#424242" stroke-width="3" stroke-linecap="round" points="0 35.4997731 36.81601 5 74.0186345 35.4997731"></polyline>
+                <circle id="Oval" fill="#D8D8D8" cx="36.8293928" cy="47.2735129" r="15"></circle>
+                <g id="Group-10" transform="translate(28.829393, 39.273513)" stroke="#FFC721" stroke-width="2.4">
+                    <g id="Oval-Copy-5" transform="translate(0.000000, 1.000000)">
+                        <circle id="Oval-Copy-4" cx="8" cy="8" r="6.8"></circle>
+                    </g>
+                    <line x1="8" y1="-8.5780584e-17" x2="8" y2="6" id="Path-9" stroke-linecap="round"></line>
+                </g>
+                <g id="Group-22" transform="translate(24.960849, 21.273513)" fill="#FFC721">
+                    <rect id="Rectangle" x="9.83080802" y="0" width="3.39622642" height="6.79245283"></rect>
+                    <polygon id="Rectangle-Copy-8" transform="translate(20.149854, 4.790018) rotate(-330.000000) translate(-20.149854, -4.790018) " points="18.4517413 1.39379162 21.8479677 1.39379162 21.8479677 8.18624445 18.4517413 8.18624445"></polygon>
+                    <polygon id="Rectangle-Copy-9" transform="translate(3.168722, 4.790018) rotate(-30.000000) translate(-3.168722, -4.790018) " points="1.47060918 1.39379162 4.86683559 1.39379162 4.86683559 8.18624445 1.47060918 8.18624445"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

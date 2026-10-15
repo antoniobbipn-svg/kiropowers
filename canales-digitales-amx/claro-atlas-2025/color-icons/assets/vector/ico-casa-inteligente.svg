@@ -1,0 +1,10 @@
+<svg width="55" height="50" viewBox="0 0 55 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.00128 20.6494V44.0004C6.00128 46.2096 7.79214 48.0004 10.0013 48.0004H44.5577C46.7669 48.0004 48.5577 46.2096 48.5577 44.0004V20.6494" stroke="#424242" stroke-width="3" stroke-linecap="round"/>
+<path d="M2 22.855L27.2703 2L52.806 22.855" stroke="#424242" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="27.2795" cy="30.9061" rx="10.2959" ry="10.2566" fill="#D8D8D8"/>
+<path d="M31.5706 31.5893C31.5706 33.9434 29.6538 35.8596 27.2795 35.8596C24.9052 35.8596 22.9883 33.9434 22.9883 31.5893C22.9883 29.2353 24.9052 27.3191 27.2795 27.3191C29.6538 27.3191 31.5706 29.2353 31.5706 31.5893Z" stroke="#FF7900" stroke-width="2.4"/>
+<path d="M27.2795 26.1191V30.2218" stroke="#FF7900" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="25.8808" y="13.127" width="2.33115" height="4.64452" fill="#FF7900"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.1199 13.8109L35.1388 14.972L32.8076 18.9943L30.7888 17.8332L33.1199 13.8109Z" fill="#FF7900"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.133 14.9717L21.1518 13.8106L23.483 17.8328L21.4641 18.9939L19.133 14.9717Z" fill="#FF7900"/>
+</svg>

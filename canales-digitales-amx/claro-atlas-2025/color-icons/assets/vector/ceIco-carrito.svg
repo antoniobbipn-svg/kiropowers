@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="76px" viewBox="0 0 80 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 32</title>
+    <g id="Empresas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1335.000000, -2529.000000)">
+            <g id="Group-32" transform="translate(1336.000000, 2529.000000)">
+                <polygon id="Clip-5" points="0 76 76 76 76 0 0 0"></polygon>
+                <circle id="Oval" stroke="#424242" stroke-width="3" fill="#D8D8D8" cx="29.3769429" cy="64.7578422" r="4.70120439"></circle>
+                <circle id="Oval-Copy" stroke="#424242" stroke-width="3" fill="#D8D8D8" cx="62.0742024" cy="64.7578422" r="4.70120439"></circle>
+                <path d="M67.0742525,56.2011388 L25.7760299,56.2011388 C21.8497523,55.9340649 19.8866135,54.2383893 19.8866135,51.1141118 C19.8866135,47.9898343 21.8497523,46.2422951 25.7760299,45.8714943 L67.0742525,45.8714943 L75.943311,14.6169497 L17.7829247,14.6169497 L15.4122811,6.44291358 C15.1643741,5.58812415 14.3814466,5 13.4914338,5 L1,5 L1,5" id="Path-42" stroke="#424242" stroke-width="3.4" stroke-linecap="round"></path>
+                <line x1="17.7829247" y1="14.6169497" x2="24.536016" y2="46.0131053" id="Path-43" stroke="#424242" stroke-width="3"></line>
+                <polygon id="Path-44" fill="#FFC721" points="23.1757385 19.4916019 27.4298805 41.7560489 63.5321898 41.7560489 70.1930054 19.4916019"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
